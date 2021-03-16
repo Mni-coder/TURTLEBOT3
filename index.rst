@@ -35,11 +35,11 @@ Ich habe insgesamt ca. 25 Wochen, um diese Aufgabe zu erledigen.
 
 1. Schließen Turtlebot3 und Raspberry Pi 4 physisch an (Motor, Batterie usw.) - W4 / 5
 
-2. nstallieren das Betriebssystem auf dem Raspberry Pi 4 und stellen eine Verbindung zu WLAN für die Fernbedienung her - W5 / 6
+2. installieren das Betriebssystem auf dem Raspberry Pi 4 und stellen eine Verbindung zu WLAN für die Fernbedienung her - W5 / 6
 
 3. Installieren RealSense D435 Camera-W7 / 8
 
-4. Verwenden PCL zur Objekterkennung und Entfernungsmessung,  dauernter Test -W9-21
+4. Verwenden PCL zur Objekterkennung und Entfernungsmessung,  und immer dauernter Test -W9-21
 
 Ⅲ.Phase - Zusammenfassung（W22-W25）：
 ********************************************************
