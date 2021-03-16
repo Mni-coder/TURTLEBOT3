@@ -22,26 +22,34 @@ Ich habe insgesamt ca. 25 Wochen, um diese Aufgabe zu erledigen.
 Ⅰ.Phase-Vorbereitung (Woche 1-Woche 4)：
 ************************************************
 
-1. Erstellen eine innere WIKI-Seite über TURTLEBOT3 im LWM-WIKI
+1. eine innere WIKI-Seite über TURTLEBOT3 im LWM-WIKI erstellen 
 
-2. Hinweis: Fügen jederzeit nachfolgende Dateien hinzu (z.B. SolidWorks-Dateien von TURTLEBOT3)
+2. Hinweis: jederzeit nachfolgende Dateien hinzufügen (z.B. SolidWorks-Dateien von TURTLEBOT3)
 
-3. Erfahren mehr über ROS und verstärken Python-Fähigkeit
+3. mehr über ROS und verstärken Python-Fähigkeit erfahren
 
-4. Lernen die Erweiterungen und das Verwendungfahren des Raspberry Pi 4
+4. die Erweiterungen und das Verwendungfahren des Raspberry Pi 4 lernen
 
 Ⅱ.Phase - Realisieren(W4-W21)：
 ***************************************
 
-1. Schließen Turtlebot3 und Raspberry Pi 4 physisch an (Motor, Batterie usw.) - W4 / 5
+1. Turtlebot3 und Raspberry Pi 4 physisch anschließen (Motor, Batterie usw.) - W4 / 5
 
-2. installieren das Betriebssystem auf dem Raspberry Pi 4 und stellen eine Verbindung zu WLAN für die Fernbedienung her - W5 / 6
+2. das Betriebssystem auf dem Raspberry Pi 4 installieren und eine Verbindung zu WLAN für die Fernbedienung herstellen - W5 / 6
 
-3. Installieren RealSense D435 Camera-W7 / 8
+3. RealSense D435 Camera installieren -W7 / 8
 
-4. Verwenden PCL zur Objekterkennung und Entfernungsmessung,  und immer dauernter Test -W9-21
+4. PCL zur Objekterkennung und Entfernungsmessung verwenden,  und immer dauernter Test - W9-21
+
+.. image:: 2.jpg
+
+(www.turtlebot.de)
+
+.. image:: 3.jpg
+
+(www.wikipedia/rasperry.de)
 
 Ⅲ.Phase - Zusammenfassung（W22-W25）：
 ********************************************************
-1. optimieren, zusammenfassen den Praxis; Abschlussarbeiten schreiben, mich auf die Verteidigung vorbereiten
+1.  das Praxisergebnis optimieren, zusammenfassen; Abschlussarbeiten schreiben, mich auf die Verteidigung vorbereiten
 
