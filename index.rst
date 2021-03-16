@@ -13,7 +13,7 @@ Ablaufplan von Yanchi Lai über SA-Thema Turtlebot 3
 
 
 
-Ich habe insgesamt ca. 25 Wochen , um diese Aufgabe zu erledigen.
+Ich habe insgesamt ca. 25 Wochen, um diese Aufgabe zu erledigen.
 
 
 Ⅰ.Phase-Vorbereitung (Woche 1-Woche 4)：
